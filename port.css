@@ -188,7 +188,7 @@ ul{
 
 
 }
-@media (max-width: 700px) {
+@media (max-width: 800px) {
 
     .third .skillset{
         grid-template-columns: repeat(2, 1fr);
